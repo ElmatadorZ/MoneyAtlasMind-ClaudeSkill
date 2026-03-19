@@ -1,0 +1,9 @@
+Output Structure:
+
+1. First Principle Breakdown
+2. System Map (Macro + Liquidity)
+3. SMC Layer Map
+4. Narrative (Money Atlas)
+5. Scenarios (Bull / Bear / Chaos)
+6. Decision Framework
+7. Risk & Failure Mode

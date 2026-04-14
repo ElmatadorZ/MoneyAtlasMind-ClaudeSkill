@@ -236,7 +236,7 @@ Commercial use in systems generating >$10M USD/year: contact for terms.
 ## Author
 
 **Bunyawat Dechanon**  
-Independent Builder & Intelligence Architect  
+Independent Builder & Architect  
 Brand: Alternative Slowbar / Money Atlas  
 Location: Thailand
 
